@@ -1,6 +1,6 @@
 # Introduction 
 This is BMI calculator app.
-This app will calculate the BMI, BMI Category and BMI Healthe Risk for a group of people given in a JSON format.
+This app will calculate the BMI, BMI Category and BMI Health Risk for a group of people given in a JSON format.
 The report will be shared in an output console. 
 
 # Getting Started
