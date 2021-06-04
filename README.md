@@ -13,4 +13,4 @@ To Install the utility execute the below commands.
 3.	Check your installation using command python -m bmi_calculator -h
 
 Sample command:
-python -m bmi_calculator -i input.json -c overweight -o sample.csv
+python -m bmi_calculator -i input.json -c "overweight" -o sample.csv
